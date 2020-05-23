@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Recommendation System Portfolio
 
-You can use the [editor on GitHub](https://github.com/abmadani/recommendation/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I design different recommendation system on different businesses such as Book, Music, Movie. All data is clean and ready to use in recommendation. Inaddtion, other data needs to preprocessing more and efficient.  
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
