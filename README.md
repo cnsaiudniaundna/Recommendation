@@ -22,7 +22,7 @@
 ![alt text](https://github.com/abmadani/Recommendation/blob/master/movie_rec.png "پیشنهاد دهنده فیلم")
 
 
-![Alt text](https://github.com/abmadani/Recommendation/blob/master/ezgif.movie.gif) 
+![Alt text](https://github.com/abmadani/Recommendation/blob/master/movie.gif)
 
 ### موزیک 
 
