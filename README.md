@@ -19,8 +19,10 @@
 
 همانطور که در ویدیوی زیر مشاهده می شود، مشترک شماره ۸۵، تعدادی از فیلم های موجود در دیتاست سایت را دیده است، که بنابر سلیقه شخصی اش به دو دسته ی «علاقمند هستم» و «علاقه ای ندارم» تقسیم شده است. حال سیستم پیشنهاددهنده بر اساس خواسته و علایق این مشترک، موارد جدیدی را که هنوز کاربر مشاهده نکرده است، به او پیشنهاد می دهد
 
+![alt text](https://github.com/abmadani/Recommendation/blob/master/movie_rec.png "پیشنهاد دهنده فیلم")
 
-![Alt text](https://github.com/abmadani/Recommendation/blob/master/ezgif.com-video-to-gif.gif) 
+
+![Alt text](https://github.com/abmadani/Recommendation/blob/master/ezgif.movie.gif) 
 
 ### موزیک 
 
