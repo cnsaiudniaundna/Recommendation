@@ -22,4 +22,5 @@
 ![Alt text](https://github.com/abmadani/Recommendation/blob/master/ezgif.com-video-to-gif.gif) 
 ### ارتباط 
 
-جهت اطلاع بیشتر از طریق ایمیل با ما در ارتباط باشید.[email](mailto:abolfazl.madani71@gmail.com?subject=[GitHub]%20Recommendation) .
+جهت اطلاع بیشتر از طریق ایمیل با ما در ارتباط باشید.
+[ایمیل](mailto:abolfazl.madani71@gmail.com?subject=[GitHub]%20Recommendation)
